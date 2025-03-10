@@ -1,0 +1,15 @@
+{
+  "providers": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-learnamp-dev-83045-authRole",
+      "UnauthRoleArn": "arn:aws:iam::011136480113:role/amplify-learnamp-dev-83045-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::011136480113:role/amplify-learnamp-dev-83045-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-learnamp-dev-83045-deployment",
+      "UnauthRoleName": "amplify-learnamp-dev-83045-unauthRole",
+      "StackName": "amplify-learnamp-dev-83045",
+      "StackId": "arn:aws:cloudformation:us-east-1:011136480113:stack/amplify-learnamp-dev-83045/b6503bc0-fa84-11ea-b6a6-0a23b021aa67",
+      "AmplifyAppId": "d16q4yh58ura9r"
+    }
+  }
+}
